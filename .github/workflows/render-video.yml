@@ -4,15 +4,15 @@ on:
       repoOrg:
         description: "Repo Org"
         required: true
-        default: "pomber"
+        default: "Cecilapp"
       repoName:
         description: "Repo Name"
         required: true
-        default: "didact"
+        default: "Cecil"
       starCount:
         description: "Star Count"
         required: true
-        default: 100
+        default: 150
       duration:
         description: "Duration (seconds)"
         required: false
